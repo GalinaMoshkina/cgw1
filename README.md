@@ -1,4 +1,4 @@
-# РГР1
+# Рассчетно-графическая работа 1
 <img width="721" height="286" alt="image" src="https://github.com/user-attachments/assets/c54d1328-9c25-402a-9410-4406b74a6c3e" />  
 
 <img width="303" height="56" alt="image" src="https://github.com/user-attachments/assets/982583c2-c2ca-45b1-baf0-e782d17b3a1e" />  
